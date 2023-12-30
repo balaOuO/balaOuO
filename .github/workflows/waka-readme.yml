@@ -1,0 +1,27 @@
+name: Waka Readme
+
+on:
+  # for manual workflow trigger
+  workflow_dispatch:
+  schedule:
+    # runs every 6 hours
+    - cron: "0 */6 * * *"
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          ### content
+          SHOW_TITLE: true # optional
+          BLOCKS: -> # optional
+          CODE_LANG: rust # optional
+          TIME_RANGE: last_7_days # optional
+          LANG_COUNT: 5
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional
