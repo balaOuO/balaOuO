@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 July 2024 - To: 01 August 2024
+From: 26 July 2024 - To: 02 August 2024
 
-Total Time: 28 hrs 24 mins
+Total Time: 24 hrs 32 mins
 
-TypeScript   24 hrs 33 mins  >>>>>>>>>>>>>>>>>>>>>>---   86.48 %
-C#           1 hr 50 mins    >>-----------------------   06.46 %
-JSON         59 mins         >------------------------   03.47 %
-Binary       27 mins         -------------------------   01.63 %
-HTML         24 mins         -------------------------   01.44 %
+TypeScript   20 hrs 44 mins  >>>>>>>>>>>>>>>>>>>>>----   84.53 %
+C#           1 hr 50 mins    >>-----------------------   07.48 %
+JSON         58 mins         >------------------------   03.98 %
+Binary       27 mins         -------------------------   01.89 %
+HTML         24 mins         -------------------------   01.66 %
 ```
 
 <!--END_SECTION:waka-->
