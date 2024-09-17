@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 08 September 2024 - To: 15 September 2024
+From: 09 September 2024 - To: 16 September 2024
 
-Total Time: 24 hrs 42 mins
+Total Time: 21 hrs 2 mins
 
-Python       14 hrs 33 mins  >>>>>>>>>>>>>>>----------   58.94 %
-Java         6 hrs 29 mins   >>>>>>>------------------   26.27 %
-XML          1 hr 43 mins    >>-----------------------   06.97 %
-CSV          58 mins         >------------------------   03.93 %
-Git Config   31 mins         >------------------------   02.15 %
+Python       11 hrs 5 mins   >>>>>>>>>>>>>------------   52.72 %
+Java         6 hrs 50 mins   >>>>>>>>-----------------   32.49 %
+XML          1 hr 36 mins    >>-----------------------   07.64 %
+CSV          41 mins         >------------------------   03.30 %
+Markdown     14 mins         -------------------------   01.11 %
 ```
 
 <!--END_SECTION:waka-->
