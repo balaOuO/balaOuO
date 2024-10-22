@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 13 October 2024 - To: 20 October 2024
+From: 14 October 2024 - To: 21 October 2024
 
-Total Time: 40 mins
+Total Time: 30 mins
 
-Python       26 mins         >>>>>>>>>>>>>>>>---------   65.76 %
-Java         12 mins         >>>>>>>>-----------------   31.22 %
-Bash         0 secs          -------------------------   01.73 %
-Git Config   0 secs          -------------------------   01.09 %
-XML          0 secs          -------------------------   00.13 %
+Python       26 mins         >>>>>>>>>>>>>>>>>>>>>>---   87.56 %
+Java         2 mins          >>-----------------------   08.60 %
+Bash         0 secs          >------------------------   02.30 %
+Git Config   0 secs          -------------------------   01.45 %
+Text         0 secs          -------------------------   00.10 %
 ```
 
 <!--END_SECTION:waka-->
