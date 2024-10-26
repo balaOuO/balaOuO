@@ -1,11 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 October 2024 - To: 24 October 2024
+From: 18 October 2024 - To: 25 October 2024
 
-Total Time: 2 mins
+Total Time: 30 mins
 
-Java   2 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Markdown   23 mins         >>>>>>>>>>>>>>>>>>>------   77.76 %
+Java       6 mins          >>>>>>-------------------   22.24 %
 ```
 
 <!--END_SECTION:waka-->
