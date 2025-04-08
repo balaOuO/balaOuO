@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 March 2025 - To: 06 April 2025
+From: 31 March 2025 - To: 07 April 2025
 
-Total Time: 3 hrs 56 mins
+Total Time: 4 hrs 35 mins
 
-TypeScript   2 hrs 9 mins    >>>>>>>>>>>>>>-----------   54.80 %
-Markdown     48 mins         >>>>>--------------------   20.63 %
-Go           48 mins         >>>>>--------------------   20.32 %
-PlantUML     8 mins          >------------------------   03.60 %
-HTML         1 min           -------------------------   00.50 %
+TypeScript   2 hrs 7 mins    >>>>>>>>>>>>-------------   46.26 %
+Go           1 hr 5 mins     >>>>>>-------------------   23.87 %
+Markdown     56 mins         >>>>>--------------------   20.40 %
+Python       24 mins         >>-----------------------   08.82 %
+HTML         1 min           -------------------------   00.46 %
 ```
 
 <!--END_SECTION:waka-->
