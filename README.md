@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 April 2025 - To: 12 April 2025
+From: 06 April 2025 - To: 13 April 2025
 
-Total Time: 3 hrs 43 mins
+Total Time: 2 hrs 54 mins
 
-Go           1 hr 6 mins     >>>>>>>------------------   29.78 %
-PlantUML     1 hr 5 mins     >>>>>>>------------------   29.55 %
-Java         53 mins         >>>>>>-------------------   23.84 %
-Python       24 mins         >>>----------------------   10.87 %
-Markdown     9 mins          >------------------------   04.29 %
+PlantUML     1 hr 5 mins     >>>>>>>>>----------------   37.85 %
+Java         53 mins         >>>>>>>>-----------------   30.53 %
+Python       24 mins         >>>----------------------   13.92 %
+Go           17 mins         >>>----------------------   10.06 %
+Markdown     9 mins          >------------------------   05.50 %
 ```
 
 <!--END_SECTION:waka-->
