@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 April 2025 - To: 21 April 2025
+From: 15 April 2025 - To: 22 April 2025
 
-Total Time: 3 hrs 24 mins
+Total Time: 4 hrs 19 mins
 
-Prolog     3 hrs 13 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   94.83 %
-Markdown   8 mins          >------------------------   04.18 %
-Text       1 min           -------------------------   00.66 %
-Python     0 secs          -------------------------   00.30 %
-Perl       0 secs          -------------------------   00.02 %
+PlantUML   3 hrs 33 mins   >>>>>>>>>>>>>>>>>>>>>----   82.06 %
+Prolog     44 mins         >>>>---------------------   17.10 %
+Markdown   1 min           -------------------------   00.70 %
+Text       0 secs          -------------------------   00.13 %
+Python     0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
