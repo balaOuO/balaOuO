@@ -1,14 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 May 2025 - To: 28 May 2025
+From: 22 May 2025 - To: 29 May 2025
 
-Total Time: 4 hrs 2 mins
+Total Time: 32 mins
 
-Prolog   3 hrs 29 mins   >>>>>>>>>>>>>>>>>>>>>>---   86.44 %
-Python   21 mins         >>-----------------------   08.75 %
-XML      5 mins          >------------------------   02.47 %
-JSON     5 mins          >------------------------   02.34 %
+Python   21 mins         >>>>>>>>>>>>>>>>---------   64.52 %
+XML      5 mins          >>>>>--------------------   18.21 %
+JSON     5 mins          >>>>---------------------   17.26 %
 ```
 
 <!--END_SECTION:waka-->
