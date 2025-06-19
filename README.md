@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 June 2025 - To: 17 June 2025
+From: 11 June 2025 - To: 18 June 2025
 
-Total Time: 5 hrs 3 mins
+Total Time: 2 hrs 2 mins
 
-PlantUML   2 hrs 57 mins   >>>>>>>>>>>>>>>----------   58.43 %
-Go         1 hr 50 mins    >>>>>>>>>----------------   36.47 %
-Java       13 mins         >------------------------   04.36 %
-Prolog     1 min           -------------------------   00.53 %
-Markdown   0 secs          -------------------------   00.21 %
+Go         1 hr 50 mins    >>>>>>>>>>>>>>>>>>>>>>---   89.97 %
+Markdown   10 mins         >>-----------------------   08.51 %
+Prolog     1 min           -------------------------   01.32 %
+PlantUML   0 secs          -------------------------   00.17 %
+C++        0 secs          -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
