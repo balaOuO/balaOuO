@@ -1,15 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 July 2025 - To: 09 July 2025
+From: 03 July 2025 - To: 10 July 2025
 
-Total Time: 1 hr 49 mins
+Total Time: 2 hrs 40 mins
 
-JavaScript        1 hr 6 mins     >>>>>>>>>>>>>>>----------   60.99 %
-PlantUML          37 mins         >>>>>>>>>----------------   34.42 %
-HTML              1 min           -------------------------   01.79 %
-Java Properties   1 min           -------------------------   01.67 %
-Bash              0 secs          -------------------------   00.89 %
+Other        1 hr 36 mins    >>>>>>>>>----------------   37.59 %
 ```
 
 <!--END_SECTION:waka-->
