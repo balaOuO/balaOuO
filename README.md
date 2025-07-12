@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 July 2025 - To: 10 July 2025
+From: 04 July 2025 - To: 11 July 2025
 
-Total Time: 2 hrs 40 mins
+Total Time: 1 hr 44 mins
 
-Other        1 hr 36 mins    >>>>>>>>>----------------   37.59 %
+Other        1 hr 36 mins    >>>>>>>>>>>>-------------   47.92 %
 ```
 
 <!--END_SECTION:waka-->
