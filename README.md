@@ -1,13 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 13 August 2025 - To: 20 August 2025
+From: 14 August 2025 - To: 21 August 2025
 
-Total Time: 38 mins
+Total Time: 2 hrs 24 mins
 
-Java       32 mins         >>>>>>>>>>>>>>>>>>>>>----   84.24 %
-Markdown   5 mins          >>>>---------------------   15.65 %
-XML        0 secs          -------------------------   00.11 %
+Markdown     50 mins         >>>>>>>>>----------------   34.74 %
+Java         47 mins         >>>>>>>>-----------------   32.79 %
+TypeScript   20 mins         >>>>---------------------   14.13 %
+PowerShell   13 mins         >>-----------------------   09.47 %
+XML          12 mins         >>-----------------------   08.80 %
 ```
 
 <!--END_SECTION:waka-->
