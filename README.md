@@ -1,13 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 September 2025 - To: 23 September 2025
+From: 17 September 2025 - To: 24 September 2025
 
-Total Time: 2 hrs 15 mins
+Total Time: 5 hrs 55 mins
 
-Java              1 hr            >>>>>>>>>>---------------   41.38 %
-Python            53 mins         >>>>>>>>>----------------   36.65 %
-Other             11 mins         >>-----------------------   07.64 %
+Markdown          2 hrs 25 mins   >>>>>>>>>>---------------   39.62 %
+Java              2 hrs 19 mins   >>>>>>>>>----------------   37.97 %
+Python            53 mins         >>>>---------------------   14.68 %
+Other             11 mins         >------------------------   03.07 %
 ```
 
 <!--END_SECTION:waka-->
