@@ -1,13 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 November 2025 - To: 01 December 2025
+From: 25 November 2025 - To: 02 December 2025
 
-Total Time: 1 hr 48 mins
+Total Time: 2 hrs 10 mins
 
-YAML                       33 mins         >>>>>>>------------------   26.16 %
-Docker                     23 mins         >>>>---------------------   17.88 %
-Other                      20 mins         >>>>---------------------   15.76 %
+YAML                       34 mins         >>>>>>-------------------   22.72 %
+Markdown                   24 mins         >>>>---------------------   16.26 %
+Docker                     23 mins         >>>>---------------------   15.45 %
+Other                      19 mins         >>>----------------------   13.23 %
 ```
 
 <!--END_SECTION:waka-->
