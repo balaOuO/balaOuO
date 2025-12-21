@@ -1,14 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 12 December 2025 - To: 19 December 2025
+From: 13 December 2025 - To: 20 December 2025
 
-Total Time: 2 hrs 36 mins
+Total Time: 3 hrs 4 mins
 
-Docker            56 mins         >>>>>>>>-----------------   33.61 %
-PlantUML          54 mins         >>>>>>>>-----------------   32.85 %
-JSON              24 mins         >>>>---------------------   14.68 %
-Other             10 mins         >>-----------------------   06.41 %
+Docker            56 mins         >>>>>>>------------------   28.75 %
+PlantUML          54 mins         >>>>>>>------------------   28.10 %
+JSON              33 mins         >>>>---------------------   17.27 %
+Markdown          19 mins         >>-----------------------   09.90 %
+Other             10 mins         >------------------------   05.49 %
 ```
 
 <!--END_SECTION:waka-->
