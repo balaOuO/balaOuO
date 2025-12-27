@@ -1,15 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 18 December 2025 - To: 25 December 2025
+From: 19 December 2025 - To: 26 December 2025
 
-Total Time: 2 hrs 32 mins
+Total Time: 1 hr 19 mins
 
-Docker            56 mins         >>>>>>>>>----------------   34.45 %
-Markdown          34 mins         >>>>>--------------------   21.50 %
-Python            25 mins         >>>>---------------------   15.72 %
-TypeScript        13 mins         >>-----------------------   08.20 %
-Other             10 mins         >>-----------------------   06.57 %
+Markdown     34 mins         >>>>>>>>>>>--------------   43.17 %
+Python       25 mins         >>>>>>>>-----------------   32.17 %
+TypeScript   10 mins         >>>----------------------   13.11 %
+JSON         9 mins          >>>----------------------   11.55 %
 ```
 
 <!--END_SECTION:waka-->
