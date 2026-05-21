@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 12 May 2026 - To: 19 May 2026
+From: 13 May 2026 - To: 20 May 2026
 
-Total Time: 11 hrs
+Total Time: 9 hrs 54 mins
 
-Markdown     5 hrs 34 mins         >>>>>>>>>>>>-------------   49.85 %
-Python       3 hrs 7 mins          >>>>>>>------------------   27.93 %
-PlantUML     1 hr 41 mins          >>>>---------------------   15.08 %
-Text         14 mins               >------------------------   02.16 %
-YAML         13 mins               >------------------------   02.08 %
+Markdown     4 hrs 36 mins         >>>>>>>>>>>--------------   45.73 %
+Python       3 hrs 7 mins          >>>>>>>>-----------------   30.98 %
+PlantUML     1 hr 41 mins          >>>>---------------------   16.72 %
+Text         14 mins               >------------------------   02.40 %
+YAML         11 mins               -------------------------   01.90 %
 ```
 
 <!--END_SECTION:waka-->
