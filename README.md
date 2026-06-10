@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 June 2026 - To: 09 June 2026
+From: 03 June 2026 - To: 10 June 2026
 
-Total Time: 3 hrs 44 mins
+Total Time: 1 hr 54 mins
 
-Python       1 hr 35 mins          >>>>>>>>>>>--------------   42.07 %
-Markdown     1 hr 31 mins          >>>>>>>>>>---------------   40.43 %
-PowerShell   16 mins               >>-----------------------   07.20 %
-XML          15 mins               >>-----------------------   06.73 %
-Java         5 mins                >------------------------   02.41 %
+Markdown   1 hr 24 mins          >>>>>>>>>>>>>>>>>>>------   74.01 %
+Python     23 mins               >>>>>--------------------   20.15 %
+XML        4 mins                >------------------------   03.49 %
+Java       1 min                 -------------------------   01.26 %
+C#         0 secs                -------------------------   00.79 %
 ```
 
 <!--END_SECTION:waka-->
