@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 October 2026 - To: 08 October 2026
+From: 02 October 2026 - To: 09 October 2026
 
-Total Time: 1 hr 49 mins
+Total Time: 1 hr 4 mins
 
-Markdown   1 hr 4 mins           >>>>>>>>>>>>>>>----------   59.04 %
-JSON       19 mins               >>>>---------------------   17.48 %
-Git        9 mins                >>-----------------------   08.40 %
-YAML       8 mins                >>-----------------------   07.41 %
-Bash       7 mins                >>-----------------------   06.48 %
+Markdown   24 mins               >>>>>>>>>>---------------   38.83 %
+JSON       17 mins               >>>>>>>------------------   26.63 %
+Git        9 mins                >>>>---------------------   14.31 %
+YAML       6 mins                >>>----------------------   10.57 %
+Bash       4 mins                >>-----------------------   07.63 %
 ```
 
 <!--END_SECTION:waka-->
